@@ -1,0 +1,91 @@
+/*Fonts imported*/
+@import url(https://fonts.googleapis.com/css?family=Caveat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Fascinate);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+.img-circle {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 320px;
+    height: auto;
+    padding: 1em;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 33px;
+  font-family: 'Caveat', cursive;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: 'Caveat', cursive;
+}
+
+.masthead {
+  padding-top: 9em;
+  background-image: url("background.jpeg");
+  background-size: cover
+}
+  
+ .masthead-intro {
+  color: navy;
+  /*font-family: cochin;*/
+  font-size: 400%;
+  text-align: center;
+  margin-bottom: 0.1em;
+  }
+
+.master-heading {
+  color: navy;
+  font-family: 'Fascinate', cursive;
+  font-size: 600%;
+  text-align: center;
+  margin-top: -0.2em;  
+}
+
+.introduction {
+    padding-bottom: 4em;
+    padding-left: 10em;
+    padding-right: 10em;
+    text-align: center;
+}
+
+.where-im-from {
+  padding-left: 15em;
+  padding-right: 6em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-color: 74C2E6;
+  column-count: 2;
+}
+
+.education {
+  padding-left: 15em;
+  padding-right: 6em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  column-count: 2;
+}
+
+.location {
+  padding-left: 15em;
+  padding-right: 6em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background-color: 74C2E6;
+  column-count: 2;
+}
+
+.skills {
+  padding-left: 15em;
+  padding-right: 6em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  column-count: 2;
+}
+
+
